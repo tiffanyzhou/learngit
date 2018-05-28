@@ -1,2 +1,0 @@
-begin to start smartGit
-create new branch
